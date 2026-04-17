@@ -1288,3 +1288,18 @@
   padding-top: 4px;
   border-top: 1px solid var(--border2);
 }
+.skill-left {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.skill-name {
+  font-weight: 600;
+}
+
+.skill-desc {
+  font-size: 13px;
+  opacity: 0.7;
+  margin-top: 2px;
+}
